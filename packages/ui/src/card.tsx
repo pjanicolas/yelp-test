@@ -27,7 +27,7 @@ export function Card({
           <span className={styles.ratingValue}>{rating.toFixed(1)}</span>
         </div>
       </div>
-        
+
       
       <div className={styles.footer}>
         <p className={styles.address}>{address}</p>
